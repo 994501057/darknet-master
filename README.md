@@ -7,6 +7,10 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 
+模型文件：开百度网盘
+链接: https://pan.baidu.com/s/1C_Z0JD_c7ZUULJxlDqrbmw 
+
+提取码: v7ui 
 
 要记得：一定make clean，然后make
 cfg，data，names文件均可自己创建
