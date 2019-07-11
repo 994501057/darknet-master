@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/d/Desktop/darknet-master/scripts/2019_train.txt
+valid  =/home/d/Desktop/darknet-master/scripts/2019_val.txt
+names = data/demo.names
+backup = backup
+

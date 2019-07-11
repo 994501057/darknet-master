@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>3010.jpg</filename>
+	<path>E:\darknet-master\scripts\VOCdevkit\VOC2019\JPEGImages\3010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>571</xmin>
+			<ymin>497</ymin>
+			<xmax>645</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>
